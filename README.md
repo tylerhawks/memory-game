@@ -6,7 +6,7 @@ About
 
 How to play
 -Click on a card to turn it over and see the image
--CLick another card to try to find a matching image
+-Click another card to try to find a matching image
 -Cards that aren't matched turn back over
 -Matches stay face-up
 -The game is won when all 8 pairs are matched
